@@ -8,7 +8,7 @@
 # constant time based on knowing a maximum subarray ending at index j.
 
 """
-ITERATIVE-FIND-MAXIMUM-SUBARRAY(A)
+// ITERATIVE-FIND-MAXIMUM-SUBARRAY(A)
 n = A.length
 max_sum = -inf
 sum = -inf
